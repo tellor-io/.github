@@ -4,10 +4,16 @@
 
 Tellor is an immutable decentralized oracle protocol that incentivizes an open, permissionless network of data reporting and data validation, ensuring that data can be provided by anyone and checked by everyone.
 
-🧙 [whitepaper](https://tellor.io/whitepaper/)
+📃 [whitepaper](https://tellor.io/whitepaper/)
 
-🌈 [documentation](https://docs.tellor.io/tellor/the-basics/readme)
+📗 [documentation](https://docs.tellor.io/tellor/the-basics/readme)
 
-👩‍💻 [discord](https://discord.gg/tellor)
+📮 [data request form](https://github.com/tellor-io/dataSpecs/issues/new/choose)
 
-🍿 [twitter](https://www.twitter.com/WeAreTellor)
+💻 [discord](https://discord.gg/tellor)
+
+🐦 [twitter](https://www.twitter.com/WeAreTellor)
+
+🎨 [logos](https://github.com/tellor-io/TellorBrandMaterials)
+
+📫 email - info@tellor.io
