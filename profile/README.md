@@ -4,12 +4,18 @@
 
 Tellor is an immutable decentralized oracle protocol that incentivizes an open, permissionless network of data reporting and data validation, ensuring that data can be provided by anyone and checked by everyone.
 
-| **Important Repos**                                        |                                                       |
-|------------------------------------------------------------|-------------------------------------------------------|
-| [UsingTellor](https://github.com/tellor-io/usingtellor)    | [TellorFlex](https://github.com/tellor-io/tellorFlex) |
-| [Governance](https://github.com/tellor-io/governance)      | [Autopay](https://github.com/tellor-io/autoPay)       |
-| [TelliotFeeds](https://github.com/tellor-io/telliot-feeds) | [Dataspecs](https://github.com/tellor-io/dataSpecs)   |
+**Core Repositories**
 
+| Link                                                       | Description                                                                                    |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [UsingTellor](https://github.com/tellor-io/usingtellor)    | User Library Package                                                                           |
+| [TellorFlex](https://github.com/tellor-io/tellorFlex)      | Oracle Contract                                                                                |
+| [Governance](https://github.com/tellor-io/governance)      | a governance contract which manages disputes in Tellor protocol                                |
+| [Autopay](https://github.com/tellor-io/autoPay)            | Autopay is a system for creating and funding data feeds for use with Tellor.                   |
+| [Dataspecs](https://github.com/tellor-io/dataSpecs)        | contains specifications of data requested from, reported to, and retrieved from Tellor oracles |
+| [TelliotFeeds](https://github.com/tellor-io/telliot-feeds) | This package contains reporting tools and datafeeds for Tellor oracles.                        |
+
+**Resources**
 
 📃 [whitepaper](https://tellor.io/whitepaper/)
 
